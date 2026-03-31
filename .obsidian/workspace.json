@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "72a6b3161fb2906e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f096c72427afc010",
+        "type": "tabs",
+        "dimension": 46.129441624365484,
+        "children": [
+          {
+            "id": "5e6edc31479fb93e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Studies/SPICED/Project4/Resources/Project 4 Brief.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project 4 Brief"
+            }
+          },
+          {
+            "id": "c1b05b2e8924846b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Studies/SPICED/Project4/Resources/Portfolios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Portfolios"
+            }
+          },
+          {
+            "id": "96dd13fcb0532654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Studies/SPICED/Project4/Resources/About Me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About Me"
+            }
+          },
+          {
+            "id": "0baa502a8a612d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Studies/SPICED/Project4/Resources/Case Studies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Case Studies"
+            }
+          }
+        ]
+      },
+      {
+        "id": "18eb86c6303458c2",
+        "type": "tabs",
+        "dimension": 53.870558375634516,
+        "children": [
+          {
+            "id": "a8d4705b1bd49e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Protfolio Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protfolio Strategy"
+            }
+          },
+          {
+            "id": "a90ddfbb2ef1eda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Studies/SPICED/Project 3 E-Commerce/Project 3 (E-Commerce).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project 3 (E-Commerce)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc2b55f8701379aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "800f476dea36256e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ba85a23a93e502f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2a7889a1be2d140",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "adb0fc34e62df1d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cb48ed6b8a18eb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bfba1bdfb3c0868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86aa958f767e7543",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Case Studies/SPICED/Project4/Resources/Project 4 Brief.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Project 4 Brief"
+            }
+          },
+          {
+            "id": "c09f35a3c7862fe9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Case Studies/SPICED/Project4/Resources/Project 4 Brief.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project 4 Brief"
+            }
+          },
+          {
+            "id": "2f8a6c1b7456dc62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95198d204ee72b2b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8d9aaf7993d0bdfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5e6edc31479fb93e",
+  "lastOpenFiles": [
+    "Research/Protfolio Strategy.md",
+    "Case Studies/SPICED/Project4/Resources/Project 4 Brief.md",
+    "Case Studies/SPICED/Project 3 E-Commerce/Project 3 (E-Commerce).md",
+    "Case Studies/SPICED/Project4/Resources/Case Studies.md",
+    "Case Studies/SPICED/Project4/ReferenceEvaluation/What works and what not.md",
+    "Case Studies/SPICED/Project4/ReferenceEvaluation",
+    "Images/SideBarProcess.png",
+    "Images/WireFrameProcess.png",
+    "Images",
+    "Case Studies/SPICED/Project4/Resources/Portfolios.md",
+    "Case Studies/SPICED/Project4/Resources/About Me.md",
+    "Case Studies/SPICED/Project4/Case Study Template.md",
+    "Case Studies/SPICED/Project 3 E-Commerce",
+    "Case Studies/SPICED",
+    "Case Studies",
+    "How to structure your case study.md",
+    "Case Studies/SPICED/Project4/Resources",
+    "Case Studies/SPICED/Project4",
+    "README.md",
+    "Research",
+    "Welcome.md"
+  ]
+}
